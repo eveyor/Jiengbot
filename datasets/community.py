@@ -1,0 +1,26 @@
+##Community, will change the diatrics and letters another time 
+dinka_community = {
+"People in the Community"  :  "Koc Akut Nhom"
+"The Community"  :  "Akutnhom"
+"Church"  :  "Yon Nhialic Kanitha"
+"Hospital":  "Pan Akim"
+"Post Office"  :  "Yon Jop"
+"Hut"  :  "Yot"
+"Bakery"  :  "Yon Nyum Ayuop"
+"School"  :  "Pan Piooc
+"Fire Station"  :  "Yon Mac"
+"Bank"  :  "Yon Weeu"
+"General Store"  :  "Yon Toou"
+"OFfice"  :  "Maktap"
+"Childcare Centre"  :  "Pan Mun Mith"
+"Park"  :  "Gor"
+"Woman"  :  "Tik"
+"Man"  :  "Moc"
+"Baby"  :  "Meth"
+"Old Woman"  :  "Tingdit"
+"Old Man"  :  "Monydit"
+"Girl"  :  "Nya"
+"Boy"  :  "Dhok"
+"Children"  :  "Mith"
+"Youth"  :  "Riny Koor"
+}
