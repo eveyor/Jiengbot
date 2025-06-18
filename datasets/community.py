@@ -7,7 +7,7 @@ dinka_community = {
 "Post Office"  :  "Yon Jop"
 "Hut"  :  "Yot"
 "Bakery"  :  "Yon Nyum Ayuop"
-"School"  :  "Pan Piooc
+"School"  :  "Pan Piooc"
 "Fire Station"  :  "Yon Mac"
 "Bank"  :  "Yon Weeu"
 "General Store"  :  "Yon Toou"
