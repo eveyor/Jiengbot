@@ -5,5 +5,5 @@ Goals:
 2. train the AI to become fluent and teach others
 3. incorporate other regional dialects which may have some words that vary but overall function the same
 ### Categories currently available
-***Note some placeholders have been put in place for certain letters that I cannot copy at the moment, such as old Latin characters
-i will deveop a pronounciation key and hopefully be able to implement voice features in the future
+***Note some placeholders have been put in place for certain letters that I cannot copy at the moment, such as old Latin characters,
+I will develop a pronounciation key and hopefully be able to implement more advanced features such as voice in the future
