@@ -16,4 +16,6 @@ dinka_miscellaneous = {
 "Blanket"  :  "Parany Thiek"
 "Up/Above/Sky"  :  "Nhial"
 "Sun"  :  "Akol"
+"Fire"  :  "Mac"
+"River"  :  "War"
 }
