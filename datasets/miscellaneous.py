@@ -15,4 +15,5 @@ dinka_miscellaneous = {
 "Medicine"  :  "wal"
 "Blanket"  :  "Parany Thiek"
 "Up/Above/Sky"  :  "Nhial"
+"Sun"  :  "Akol"
 }
