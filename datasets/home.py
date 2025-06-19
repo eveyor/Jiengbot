@@ -14,4 +14,5 @@ dinka_home = {
 "Floor"  :  "Piny"
 "Shower"  :  "Yon Laak"
 "Toilet"  :  "Yon La Roor"
+"Floor"  :  "Piny"
 }
