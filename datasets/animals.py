@@ -4,6 +4,7 @@ dinka_animals = {
 "Goat"  :  "Apiyem"
 "Cat"  :  "Anou"
 "Sheep"  :  "Amaal"
+"Eagle"  :  "Kuei"
 "Dog"  :  "Jung"  
 "Rat"  :  "Riec"
 "Buffalo"  :  "Anyaar"
@@ -26,6 +27,6 @@ dinka_animals = {
 "Cheetah"  :  "Kuac"
 "Lion"  :  "Kor"
 "Giraffe"  :  "Mir"
-"Antelope"  :  "Thil
+"Antelope"  :  "Thil"
 "Vulture"  :  "Gon"
 }
