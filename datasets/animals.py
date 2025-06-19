@@ -27,4 +27,5 @@ dinka_animals = {
 "Lion"  :  "Kor"
 "Giraffe"  :  "Mir"
 "Antelope"  :  "Thil
+"Vulture"  :  "Gon"
 }
