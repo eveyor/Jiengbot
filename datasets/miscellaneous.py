@@ -14,4 +14,5 @@ dinka_miscellaneous = {
 "Stethoscope"  :  "Thethothkop"
 "Medicine"  :  "wal"
 "Blanket"  :  "Parany Thiek"
+"Up/Above/Sky"  :  "Nhial"
 }
