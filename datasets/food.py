@@ -23,10 +23,11 @@ dinka_food = {
 "Fruit"  :  "Miith e tiim"
 "Orange"  :  "Orany"
 "Apple"  :  "Apol"
-"Tomato"  :  "Amitek
+"Tomato"  :  "Amitek"
 "Grain/Seeds"  :  "Koth Rap"
-"Milk"  :  "Cha"
+"Milk"  :  "Ca"
 "Water"  :  "Piu"
 "Peanuts"  :  "Muguaak"
 "Nuts"  :  "Rong Muguaak"
+"Watermelon"  :  "Konlir"
 }
