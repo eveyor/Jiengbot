@@ -15,5 +15,9 @@ dinka_verbs = {
 "Come In"  :  "Bar Along Thin"
 "Cut"  :  "Tem"
 "Break"  :  "Dhong
-"Slap"  :  "Mang
+"Slap"  :  "Mang"
+"Clap"  :  "Pam"
+"Bend"  :  "Gung"
+"Crawl"  :  "Muol"
+"Open"  :  "Nyang"
 }
