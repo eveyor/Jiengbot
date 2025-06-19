@@ -1,0 +1,19 @@
+##dinka,english
+dinka_verbs = {
+"Actions"  :  "Luoi"
+"Walk"  :  "Cath"
+"Run"  :  "Kat"
+"Stand"  :  "Kooc"
+"Eat"  :  "Cam"
+"Talk"  :  "Jam"
+"Listen"  :  "Ping"
+"Sit"  :  "Nyuc"
+"Spear"  :  "Tong"
+"Throw"  :  "Piir"
+"Sleep"  :  "Nin"
+"Go Out"  :  "Loor Ayeer
+"Come In"  :  "Bar Along Thin"
+"Cut"  :  "Tem"
+"Break"  :  "Dhong
+"Slap"  :  "Mang
+}
