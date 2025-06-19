@@ -1,4 +1,5 @@
-Dinka,English
+##Dinka,English
+dinka_animals = {
 "Animals"  :  "Läi"
 "Goat"  :  "Apiyem"
 "Cat"  :  "Anou"
@@ -26,3 +27,4 @@ Dinka,English
 "Lion"  :  "Kor"
 "Giraffe"  :  "Mir"
 "Antelope"  :  "Thil
+}
