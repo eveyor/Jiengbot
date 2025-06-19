@@ -11,13 +11,15 @@ dinka_verbs = {
 "Spear"  :  "Tong"
 "Throw"  :  "Piir"
 "Sleep"  :  "Nin"
-"Go Out"  :  "Loor Ayeer
+"Go Out"  :  "Loor Ayeer"
 "Come In"  :  "Bar Along Thin"
 "Cut"  :  "Tem"
-"Break"  :  "Dhong
+"Break"  :  "Dhong"
 "Slap"  :  "Mang"
 "Clap"  :  "Pam"
 "Bend"  :  "Gung"
 "Crawl"  :  "Muol"
 "Open"  :  "Nyang"
+"Want"  :  "Wic"
+"Waiting"  :  "Tit"
 }
