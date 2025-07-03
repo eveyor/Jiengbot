@@ -1,5 +1,5 @@
 # Dinka dataset and translator for my regional dialect, utilised with AI and NLP resources
-This project of mine is a personal and educational initiative which I have taken to preserve my culture as we develop our language, my dialect focuses on Aweil and Bor as there is a lack of resources for those wanting to learn this dialect.
+This project of mine is an ongoing and educational initiative which I have taken to preserve my language as we develop, my dialect focuses on Aweil and Bor as there is a lack of resources for those wanting to learn this dialect.
 Goals:
 1. Utilising Ai and NLP to preserve and teach a low resource language
 2. train the AI to become fluent and teach others
@@ -7,3 +7,5 @@ Goals:
 ### Categories currently available
 ***Note some placeholders have been put in place for certain letters that I cannot copy at the moment, such as old Latin characters,
 I will develop a pronounciation key and hopefully be able to implement more advanced features such as voice in the future
+Gathering Data has been difficult as there is not a lot of resources available in this language, however I have thankfully acquired three books to work off
+A current translator for Jieng exists on google translate, however it is innacurate and does not account for regional dialect so it is unusable for my dialect
