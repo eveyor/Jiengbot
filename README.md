@@ -1,7 +1,7 @@
 # Dinka dataset and translator for my regional dialect, utilised with AI and NLP resources
 This project of mine is an ongoing and educational initiative which I have taken to preserve my language as we develop, my dialect focuses on Aweil as there is a lack of resources for those wanting to learn this dialect.
 Goals:
-1. Utilising Ai and NLP to preserve and teach a low resource language
+1. Utilising AI and NLP to preserve and teach a low resource language
 2. train the AI to become fluent and teach others
 3. incorporate other regional dialects which may have some words that vary but overall function the same
 ### Categories currently available
