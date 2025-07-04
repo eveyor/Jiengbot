@@ -11,7 +11,7 @@ Goals:
 2. Gathering Data has been difficult as there is not a lot of resources available in this language, however I have thankfully acquired three books to work off
 3. A current translator for Jieng exists on google translate, however it is innacurate and does not account for regional dialect so it is unusable for my dialect
 4. The AI and neural network stage will be a key component and will be established once enough data is available to work on
-5. The main challenge is the difficulty of available keyboards for characters. I have identified one currently available complete Jieng keyboard, however there are two speciic letters which need custom keyboards for as they are not available anywhere else, this can be done with keyman, the letters include;
+5. The main challenge is the difficulty of available keyboards for characters. I have identified one currently available complete Jieng keyboard, however there are two specific letters which need custom keyboards for as they are not available anywhere else, this can be done with keyman, the letters include;
 
    - ɔ̈ (open-o with diaeresis) (this letter appears with and without diatrics)
    - ɛ (open-e) (this also appears with and without diatrics)
