@@ -14,6 +14,8 @@ subject_focus = random.choice([jieng_pronouns, possessive_pronouns, family])
 
 if subject_focus == jieng_pronouns :
   sentence = random.choice(list(jieng_pronouns.jieng_pronouns.keys))
+## This is to add an english translation 
+  subject_eng = jieng_pronouns.jieng_pronouns[subject_dinka]
 elif subject_focus == "family" :
   noun = random.choice(list(family.family.keys))
   subject = f"e {noun}"
