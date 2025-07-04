@@ -13,8 +13,8 @@ Goals:
 4. The AI and neural network stage will be a key component and will be established once enough data is available to work on
 5. The main challenge is the difficulty of available keyboards for characters. I have identified one currently available complete Jieng keyboard, however there are two speciic letters which need custom keyboards for as they are not available anywhere else, this can be done with keyman, the letters include;
 
-ɔ̈ (open-o with diaeresis) (this letter appears with and without diatrics)
-ɛ (open-e) (this also appears with and without diatrics)
+1. ɔ̈ (open-o with diaeresis) (this letter appears with and without diatrics)
+2. ɛ (open-e) (this also appears with and without diatrics)
 - as of now, the way i implement these is I copy and paste 
 
 
