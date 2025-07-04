@@ -12,23 +12,26 @@ def generate_dinka_sentence():
 
 subject_focus = random.choice([jieng_pronouns, possessive_pronouns, family])
 
-if subject_focus == "jieng_pronouns" :
-  sentence = random.choice(list(jieng_pronouns.jieng_pronouns.key))
+if subject_focus == jieng_pronouns :
+  sentence = random.choice(list(jieng_pronouns.jieng_pronouns.keys))
 elif subject_focus == "family" :
   noun = random.choice(list(family.family.keys))
   subject = f"e {noun}"
   ### in this context "e" will be our determiner, as e is the equivalent for the english word "the"
 else: ## fix this code
-   possessive = random.choice(list(possessive_pronouns.possessive_pronouns.keys()))
-        noun = random.choice(list(family.family.keys()))
-        subject = f"{possessive} {noun}"
+     possessive = random.choice(list(possessive_pronouns.possessive_pronouns.keys()))
+     noun = random.choice(list(family.family.keys()))
+     subject = f"{possessive} {noun}"
 
 ## I need to do verbs next, a similar approach
 verb = random.choice(list(jieng_verbs.jieng_verbs.key))
 
 ## Next is the object
-object = random.choice(list(animals.animals.key)) + list(family.family.keys()) + list(home.home.keys)) 
-object = f"e {object}"
+obj = random.choice(
+    list(animals.animals.keys()) +
+    list(family.family.keys())
+)
+obj = f"ɛ {obj}"
 
 ## To build a sentence using SVO, Subject, Verb, Object
 sentence = f"{subject} {verb} {object}."
