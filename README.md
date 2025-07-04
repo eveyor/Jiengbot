@@ -10,6 +10,6 @@ Goals:
 1. I will develop a pronounciation key and hopefully be able to implement more advanced features such as voice in the future.
 2. Gathering Data has been difficult as there is not a lot of resources available in this language, however I have thankfully acquired three books to work off
 3. A current translator for Jieng exists on google translate, however it is innacurate and does not account for regional dialect so it is unusable for my dialect
-4. The AI and neural network stage will be a key component and will be established once enough data is available to work on,
+4. The AI and neural network stage will be a key component and will be established once enough data is available to work on
 5. The main challenge is the difficulty of available keyboard for characters. I have identified one currently available Jieng keyboard via Keyman
    
