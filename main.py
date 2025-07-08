@@ -1,3 +1,8 @@
+import nltk
+nltk.download('punkt')  
+nltk.download('stopwords')
+nltk.download('wordnet')
+
 import random
 
 ## I need to import my datasets so that I have something to generate coherent sentences from
